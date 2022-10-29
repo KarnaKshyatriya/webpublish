@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+D:\Proj1\day2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2949234682.index
+\SpringBootHelloWorld\src\main\java
+D:\Proj1\day2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3011943961.index
+\Hello-1\src\main\java
+D:\Proj1\day2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1058878987.index
+\demo2\src\main\java
+D:\Proj1\day2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2469732179.index
+\demo\src\main\java
